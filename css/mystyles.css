@@ -1,0 +1,43 @@
+p{
+    color:#3a3939;
+}
+
+a.irislink {
+    background-color: rgb(247, 204, 237);
+    padding: 1px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color:cornflowerblue;
+}
+
+a.irislink:hover{
+    background-color: rgb(253, 189, 228);
+    color: white;
+}
+
+div.irisdivgrey{
+    background-color: rgb(252, 195, 233);
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+h4.irissmallh4{
+    font-size: 18px;
+    color: rgb(42, 42, 100);
+}
+
+section#about.resume-section{
+    background-color: rgb(250, 215, 250);
+}
+.irisbgblue{
+    background-color: rgb(194, 194, 249);
+}
+
+.iriscrop{
+    height:200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px
+}
